@@ -1,5 +1,5 @@
 # Book-Store-App-Kotlin
-A Kotlin Android App , Beautiful UI Design , Room Database , Sorting Feature , Retrofit
+A Kotlin Android App , Beautiful UI Design , Room Database , Sorting Feature , Volley Library
 
 ## App Screens
 <img src="https://github.com/Parshuram-Behera/All-App-Images/assets/107804534/82bf48da-224f-4d3f-a4ca-d861169ab951" alt="Home Screen" width="250"/>
